@@ -1,6 +1,6 @@
 # **Digit Recognizer-Hand written MNIST**
 
-### [Download dataset here:](https://www.kaggle.com/c/digit-recognizer/data "MNIST")
+### [Download dataset here:](https://www.kaggle.com/c/digit-recognizer/data)
 
 ## **Description**
   MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. 
