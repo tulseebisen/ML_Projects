@@ -12,9 +12,9 @@
 ## Objective:
   Goal is to correctly identify digits from a dataset of thousands of handwritten images into classes ranging from 0-9
   
-![Image1] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMNIST_database&psig=AOvVaw1MrSDy6r35f3Exys6yqtzO&ust=1623667141828000&source=images&cd=vfe&ved=2ahUKEwi_gIbLtZTxAhW3gmMGHSDuA_QQjRx6BAgAEAc)
+![Image1](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 
-![Image2] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F490%2F1*nlfLUgHUEj5vW7WVJpxY-g.png&imgrefurl=https%3A%2F%2Ftowardsdatascience.com%2Fimage-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d&tbnid=qs5GLFQ7JLudYM&vet=12ahUKEwjT_NvQrpTxAhVfj0sFHf7GCGoQMygNegUIARDMAQ..i&docid=IpMYiYXNLKSScM&w=245&h=238&q=mnist%20digit%20recognition&hl=en&ved=2ahUKEwjT_NvQrpTxAhVfj0sFHf7GCGoQMygNegUIARDMAQ)
+![Image2](https://machinelearningmastery.com/wp-content/uplo…set-of-Images-from-the-MNIST-Dataset-1024x768.png)
 
 ## Results:
 1. Linear SVC : 80.5 %
