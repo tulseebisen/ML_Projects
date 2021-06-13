@@ -14,7 +14,7 @@
   
 ![Image1](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 
-![Image2](https://machinelearningmastery.com/wp-content/uplo…set-of-Images-from-the-MNIST-Dataset-1024x768.png)
+![Image2](https://machinelearningmastery.com/wp-content/uplo…-of-a-Subset-of-Images-from-the-MNIST-Dataset.png)
 
 ## Results:
 1. Linear SVC : 80.5 %
