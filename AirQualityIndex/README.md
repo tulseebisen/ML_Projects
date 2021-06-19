@@ -9,5 +9,5 @@
 2)Create a Model to Predict the quality of air(Classification to various category like Good,moderate etc)
 
 ### Reference:
-doc1[](https://app.cpcbccr.com/ccr_docs/How_AQI_Calculated.pdf)
-doc2[](Calculation of AQI - CPCBhttps://app.cpcbccr.com › AQI -Calculator)
+PDF[PDF](https://app.cpcbccr.com/ccr_docs/How_AQI_Calculated.pdf)
+AQI_Formula[AQI Formula](https://app.cpcbccr.com › AQI -Calculator)
