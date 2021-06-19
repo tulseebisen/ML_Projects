@@ -11,4 +11,4 @@
 ### Reference:
 [PDF](https://app.cpcbccr.com/ccr_docs/How_AQI_Calculated.pdf)
 
-[AQI Formula](https://app.cpcbccr.com › AQI -Calculator)
+[AQI_Formula](https://app.cpcbccr.com › AQI -Calculator)
