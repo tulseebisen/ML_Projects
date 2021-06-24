@@ -18,7 +18,6 @@ Now, the bank is looking for your help in identifying customers that could show 
 #### Data Dictionary Train Data
 Variable | Definition
 ------------------------ | --------------------------------------------------------------------------------------------
-
 ID	                  |Unique Identifier for a row
 Gender	              |Gender of the Customer
 Age	                  |Age of the Customer (in Years)
@@ -30,8 +29,8 @@ Credit_Product	      |If the Customer has any active credit product (Home loan,P
 Avg_Account_Balance	  |Average Account Balance for the Customer in last 12 Months
 Is_Active	            |If the Customer is Active in last 3 Months
 Is_Lead(Target)	      |If the Customer is interested for the Credit Card
-                      **0 : Customer is not interested
-                        1 : Customer is interested**
+                      ** *0 : Customer is not interested
+                          1 : Customer is interested **
 
 #### Test Data
 Variable | Definition
