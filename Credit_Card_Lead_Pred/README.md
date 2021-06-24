@@ -18,48 +18,48 @@ Now, the bank is looking for your help in identifying customers that could show 
 #### Data Dictionary Train Data
 |------Variable------|------Definition------|
 
-ID	                  Unique Identifier for a row
+ID	                  --Unique Identifier for a row
 
-Gender	              Gender of the Customer
+Gender	              --Gender of the Customer
 
-Age	                  Age of the Customer (in Years)
+Age	                  --Age of the Customer (in Years)
 
-Region_Code	          Code of the Region for the customers
+Region_Code	          --Code of the Region for the customers
 
-Occupation	          Occupation Type for the customer
+Occupation	          --Occupation Type for the customer
 
-Channel_Code	        Acquisition Channel Code for the Customer  (Encoded)
+Channel_Code	        --Acquisition Channel Code for the Customer  (Encoded)
 
-Vintage	              Vintage for the Customer (In Months)
+Vintage	              --Vintage for the Customer (In Months)
 
-Credit_Product	      If the Customer has any active credit product (Home loan,Personal loan, Credit Card etc.)
+Credit_Product	      --If the Customer has any active credit product (Home loan,Personal loan, Credit Card etc.)
 
-Avg_Account_Balance	  Average Account Balance for the Customer in last 12 Months
+Avg_Account_Balance	  --Average Account Balance for the Customer in last 12 Months
 
-Is_Active	            If the Customer is Active in last 3 Months
-Is_Lead(Target)	      If the Customer is interested for the Credit Card
-                      0 : Customer is not interested
-                      1 : Customer is interested
+Is_Active	            --If the Customer is Active in last 3 Months
+Is_Lead(Target)	      --If the Customer is interested for the Credit Card
+                      **--0 : Customer is not interested
+                      --1 : Customer is interested**
 
 #### Test Data
 |------Variable------|------Definition------|
 
-ID	                  Unique Identifier for a row
+ID	                  --Unique Identifier for a row
 
-Gender	              Gender of the Customer
+Gender	              --Gender of the Customer
 
-Age	                  Age of the Customer (in Years)
+Age	                  --Age of the Customer (in Years)
 
-Region_Code	          Code of the Region for the customers
+Region_Code	          --Code of the Region for the customers
 
-Occupation	          Occupation Type for the customer
+Occupation	          --Occupation Type for the customer
 
-Channel_Code	        Acquisition Channel Code for the Customer  (Encoded)
+Channel_Code	        --Acquisition Channel Code for the Customer  (Encoded)
 
-Vintage	              Vintage for the Customer (In Months)
+Vintage	              --Vintage for the Customer (In Months)
 
-Credit_Product	      If the Customer has any active credit product (Home loan,Personal loan, Credit Card etc.)
+Credit_Product	      --If the Customer has any active credit product (Home loan,Personal loan, Credit Card etc.)
 
-Avg_Account_Balance	  Average Account Balance for the Customer in last 12 Months
+Avg_Account_Balance	  --Average Account Balance for the Customer in last 12 Months
 
-Is_Active	            If the Customer is Active in last 3 Months
+Is_Active	            --If the Customer is Active in last 3 Months
