@@ -16,7 +16,9 @@ Now, the bank is looking for your help in identifying customers that could show 
 •	Details of his/her relationship with the bank (Channel_Code,Vintage, 'Avg_Asset_Value etc.)
 
 #### Data Dictionary Train Data
-------Variable------|------Definition------
+Variable | Definition
+------------------------ | --------------------------------------------------------------------------------------------
+
 ID	                  |Unique Identifier for a row
 Gender	              |Gender of the Customer
 Age	                  |Age of the Customer (in Years)
@@ -32,7 +34,8 @@ Is_Lead(Target)	      |If the Customer is interested for the Credit Card
                         1 : Customer is interested**
 
 #### Test Data
-------Variable------|------Definition------
+Variable | Definition
+------------------------ | --------------------------------------------------------------------------------------------
 ID	                  |Unique Identifier for a row
 Gender	              |Gender of the Customer
 Age	                  |Age of the Customer (in Years)
