@@ -6,7 +6,7 @@
 
 **Attribute Information:**
 
-Dimension: 19735 x 29
+(Dimension: 19735 x 29)
 
 
 date time year-month-day hour:minute:second
