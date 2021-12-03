@@ -49,6 +49,10 @@ It will help to pin down what is wrong with Comcast's customer service.
 
 8.Provide the percentage of complaints resolved till date, which were received through the Internet and customer care calls.
 
+𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞 
+
+1) EDA of Comcast telecommunication Complaints Project 
+
 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 :
 
 •Programming Language : Python
