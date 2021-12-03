@@ -16,7 +16,16 @@
 
 ![Image2](https://machinelearningmastery.com/wp-content/uplo…-of-a-Subset-of-Images-from-the-MNIST-Dataset.png)
 
+𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 : 
+
+•	Tools and Algorithm used: Python, Numpy, Pandas, Matplotlib, sklearn, kNN, SVM, Logistic Regression, GridSearchCV
+
+•	IDE : Google Colab
+
+[Explanation](https://lnkd.in/gNmF3yd)
+
 ## Results:
+
 1. Linear SVC : 80.5 %
 
 2. SVC rbf : 11 %
