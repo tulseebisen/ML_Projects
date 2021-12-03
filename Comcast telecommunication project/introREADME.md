@@ -1,8 +1,8 @@
-Comcast telecommunication Project Information
+# Comcast telecommunication Project Information
 
 
 
-DESCRIPTION:
+**DESCRIPTION:**
 
 Comcast is an American global telecommunication company. The firm has been providing terrible customer service. They continue to fall short despite repeated promises to improve. Only last month (October 2016) the authority fined them a $2.3 million, after receiving over 1000 consumer complaints.
 The existing database will serve as a repository of public customer complaints filed against Comcast.
@@ -31,6 +31,11 @@ TASK:
 7.Which state has the highest percentage of unresolved complaints
 8.Provide the percentage of complaints resolved till date, which were received through the Internet and customer care calls.
 
+𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 :
+•Programming Language : Python
+•Algorithm : Random Forest Classifier
+•IDE : Jupyter Notebook
+
 Author:
 Tulsee Bisen
 
@@ -38,7 +43,4 @@ Contributors:
 Deep Patel
 Shivang Kharakwal
 
-𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 :
-•Programming Language : Python
-•Algorithm : Random Forest Classifier
-•IDE : Jupyter Notebook
+
