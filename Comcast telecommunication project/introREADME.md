@@ -9,6 +9,7 @@ The existing database will serve as a repository of public customer complaints f
 It will help to pin down what is wrong with Comcast's customer service.
 
 Data Dictionary:
+
 •	Ticket #: Ticket number assigned to each complaint
 
 •	Customer Complaint: Description of complaint
@@ -31,6 +32,7 @@ Data Dictionary:
 
 
 TASK:
+
 1.Provide the trend chart for the number of complaints at monthly and daily granularity levels.
 
 2.Provide a table with the frequency of complaint types.
@@ -48,6 +50,7 @@ TASK:
 8.Provide the percentage of complaints resolved till date, which were received through the Internet and customer care calls.
 
 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 :
+
 •Programming Language : Python
 
 •Algorithm : Random Forest Classifier
@@ -55,9 +58,11 @@ TASK:
 •IDE : Jupyter Notebook
 
 Author:
+
 Tulsee Bisen
 
 Contributors:
+
 Deep Patel
 
 Shivang Kharakwal
