@@ -22,7 +22,7 @@
 
 •	IDE : Google Colab
 
-[Explanation](https://lnkd.in/gNmF3yd)
+[Explanation link to youtube](https://lnkd.in/gNmF3yd)
 
 ## Results:
 
