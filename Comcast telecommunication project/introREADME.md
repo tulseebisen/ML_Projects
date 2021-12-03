@@ -8,7 +8,7 @@ Comcast is an American global telecommunication company. The firm has been provi
 The existing database will serve as a repository of public customer complaints filed against Comcast.
 It will help to pin down what is wrong with Comcast's customer service.
 
-Data Dictionary:
+**Data Dictionary:**
 
 •	Ticket #: Ticket number assigned to each complaint
 
@@ -31,7 +31,7 @@ Data Dictionary:
 •	Filing on behalf of someone
 
 
-TASK:
+**TASK:**
 
 1.Provide the trend chart for the number of complaints at monthly and daily granularity levels.
 
@@ -57,11 +57,11 @@ TASK:
 
 •IDE : Jupyter Notebook
 
-Author:
+**Author:**
 
 Tulsee Bisen
 
-Contributors:
+**Contributors:**
 
 Deep Patel
 
